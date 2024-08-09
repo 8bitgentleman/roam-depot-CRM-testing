@@ -33,7 +33,7 @@ Roam CRM is built on top of several Roam extensions. Please install them on Roam
 -   [Query Builder](https://github.com/dvargas92495/roamjs-query-builder) by David Vargas
 
     1. Install Query Builder extension
-    2. Import Call Rollup Queries from
+    2. Import Call Rollup Queries from Roam CRM's settings page.
 
 ## Features
 
@@ -41,10 +41,10 @@ Roam CRM is built on top of several Roam extensions. Please install them on Roam
 
 -   Roam CRM creates metadata for each `Tags::#people` page inspired by [Matt Mochary](https://docs.google.com/spreadsheets/d/1Ti_xaV9IVvj-bklxOjNY-IeGsC-YqcgvB03qvfFQrnI/). This metadata and its structure is important, **without this structure Roam CRM will not work.**
 -   Each person page must have metadata structure which looks like this. You can use the **Person Metadata Template** button in the Roam CRM settings to import a quick Roam template for this metadata structure
-    <img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/metadata.png" width="300"></img>
-      <!-- FIXME UPDATE IMAGE PATH ONCE MERGED-->
+    -   <img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/metadata.png" width="300"></img>
+        <!-- FIXME UPDATE IMAGE PATH ONCE MERGED-->
 -   At the bare minimum a person page must have this metadata for it to be recoginzed by Roam CRM
-    <img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/metadataMinimum.png" width="300"></img>
+    -   <img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/metadataMinimum.png" width="300"></img>
 
 ### Agenda Addr
 
@@ -55,7 +55,7 @@ Inefficient leaders waste a lot of time reaching out about or responding to one-
 -   Use a hashtag to have the extension hide the name in the Agenda, e.g. `#[[Bill Gates]]`
 -   Next time you talk, you'll remember everything you wanted to tell Bill
 
--   <img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/agendaAddr.gif" width="300"></img>
+-   <img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/agendaAddr.gif" width="600"></img>
 
 ### Contact Reminders
 
@@ -90,11 +90,11 @@ Easially accessable through the (optional) left sidebar button or via the modal 
 -   Home
     -   Coming soon, this will be a homepage for quick access to all CRM functionality. If you have ideas or wants for this space do reach out!
 
-<img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/workplace.gif" width="300"></img>
+<img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/workplace.gif" width="600"></img>
 
 ### Google Calendar Sync
 
-Via the Google extension RoamCRM, has the ability (toggable in settings) to connect to a google calendar and sync upcoming events to your graph. When enabled events in the next 7 days with more than 1 guest/attendee will be synced to your graph on the Daily Notes Page coresponding with the event date. If the event attendees, date, or details change Roam CRM will update the graph block accordingly.
+Via the Google extension Roam CRM has the ability (togglable in settings) to connect to a google calendar and sync upcoming events to your graph. When enabled events in the next 7 days with more than 1 guest/attendee will be synced to your graph on the Daily Notes Page corresponding with the event date. If the event attendees, date, or details change Roam CRM will update the graph block accordingly.
 
 <img src="https://github.com/8bitgentleman/roam-depot-Roam-CRM/raw/main/images/event.png" width="300"></img>
 
